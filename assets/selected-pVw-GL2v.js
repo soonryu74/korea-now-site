@@ -1,0 +1,1 @@
+function e(e,t,n){if(!t)return e;let r=e.findIndex(e=>n(e)===t);return r<=0?e:[e[r],...e.slice(0,r),...e.slice(r+1)]}export{e as t};

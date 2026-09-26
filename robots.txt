@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korea-now.com/sitemap.xml
