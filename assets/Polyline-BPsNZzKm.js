@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-B-hcVAMW.js";import{c as t,l as n,s as r,u as i}from"./leaflet-9Dk-jAJw.js";var a=e(n(),1),o=r(function({positions:e,...n},r){let o=new a.Polyline(e,n);return t(o,i(r,{overlayContainer:o}))},function(e,t,n){t.positions!==n.positions&&e.setLatLngs(t.positions)});export{o as t};

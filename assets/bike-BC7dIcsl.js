@@ -1,0 +1,1 @@
+import{m as e}from"./Say-PN1tK2kW.js";async function t(t,n,r=1e3){let i=await e(`bike-near`,{lat:t,lng:n,radius:r});return{stations:i?.stations??[],updatedAt:i?.updatedAt??``}}var n=(e,t)=>e>37.42&&e<37.72&&t>126.76&&t<127.19;export{n,t};
